@@ -20,9 +20,11 @@ Training regenerates the models, test CSV and metrics. Run it in the lab and ins
 
 Repository: https://github.com/buildwithpartha/breast-cancer-classifier-comparison
 
-The repository has been created. Publish this project folder, excluding `.venv`. Include the saved `model/*.joblib` files, metadata, test CSV, results and requirements. Verify the link is accessible to the evaluator.
+The source, saved pipelines, metadata, test CSV, results and requirements have been published. The local `.venv` is excluded.
 
 ## Streamlit Community Cloud
+
+Live app: https://breast-cancer-classifier-comparision.streamlit.app/
 
 1. Sign in with GitHub at https://share.streamlit.io/.
 2. Create an app using your repository, the `main` branch, and entry point `app.py`.
