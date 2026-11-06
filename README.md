@@ -100,4 +100,4 @@ The PDF must contain the GitHub link, live app link, actual lab screenshot and t
 python prepare_submission.py --repo https://github.com/buildwithpartha/breast-cancer-classifier-comparison --app https://breast-cancer-classifier-comparision.streamlit.app/ --screenshot YOUR_LAB_SCREENSHOT.png
 ```
 
-Open `submission.html`, print to PDF, and check its links and table legibility. The app has been deployed; BITS Lab execution evidence and final submission remain pending.
+Open `submission.html`, print to PDF, and check its links and table legibility. The app has been deployed. BITS Virtual Lab execution has been captured: the terminal screenshot shows `python train.py` completing with the same five-model metrics reported above. The submission PDF is prepared separately; uploading it to the assignment portal remains the student's responsibility.
