@@ -21,7 +21,7 @@ Predict whether a breast cell sample is benign or malignant from measurements de
 
 [GitHub source and saved artifacts](https://github.com/buildwithpartha/breast-cancer-classifier-comparison)
 
-**Live Streamlit app:** deployment pending. Add the verified live URL before submission.
+**Live Streamlit app:** [Open CellScope](https://breast-cancer-classifier-comparision.streamlit.app/).
 
 ## d. Models used
 
@@ -97,7 +97,7 @@ Deploy `app.py` from `main` through Streamlit Community Cloud using Python 3.13.
 The PDF must contain the GitHub link, live app link, actual lab screenshot and this README in that order. Once the real links and screenshot exist, run:
 
 ```text
-python prepare_submission.py --repo https://github.com/buildwithpartha/breast-cancer-classifier-comparison --app YOUR_LIVE_HTTPS_URL --screenshot YOUR_LAB_SCREENSHOT.png
+python prepare_submission.py --repo https://github.com/buildwithpartha/breast-cancer-classifier-comparison --app https://breast-cancer-classifier-comparision.streamlit.app/ --screenshot YOUR_LAB_SCREENSHOT.png
 ```
 
-Open `submission.html`, print to PDF, and check its links and table legibility. Deployment, lab evidence and final submission remain pending.
+Open `submission.html`, print to PDF, and check its links and table legibility. The app has been deployed; BITS Lab execution evidence and final submission remain pending.
