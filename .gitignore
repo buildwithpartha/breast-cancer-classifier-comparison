@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.streamlit/secrets.toml
+.DS_Store
+
+# Saved model pipelines and test_data.csv are required submission artifacts.
+# Keep them tracked once generated from your experiment.
+
